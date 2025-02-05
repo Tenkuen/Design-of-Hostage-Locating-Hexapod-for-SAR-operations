@@ -100,5 +100,6 @@ Assembly of Hexapod
 
 Hexapod Testings
  
- https://youtu.be/miCRDi7d_nc
+ [![Watch the Video](https://youtu.be/miCRDi7d_nc)
+ 
  
