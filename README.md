@@ -43,7 +43,7 @@ Components
     ![image](https://github.com/Tenkuen/Design-of-Hostage-Locating-Hexapod-for-SAR-operations/assets/147422662/7eaa5b1a-8533-48b6-8ed1-ff1e42b1feff)
 
 
-    9. Mini 360 Step Down Converter: to control incoming voltages for the raspberry pi
+    9. Mini 360 Step Down Converter: to control incoming voltages for the raspberry pi  
     ![image](https://github.com/Tenkuen/Design-of-Hostage-Locating-Hexapod-for-SAR-operations/assets/147422662/427e3301-c1e6-48b6-a5a6-1c8a010a8fcb)
 
 
