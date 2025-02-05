@@ -25,21 +25,21 @@ Components
     ![image](https://github.com/Tenkuen/Design-of-Hostage-Locating-Hexapod-for-SAR-operations/assets/147422662/f176f9d7-7982-49eb-b82b-b3b8f1535ef7)
 
 
-    5. Camera: Night vision camera for video feed.
+    5. Camera: Night vision camera for video feed.  
     
     ![image](https://github.com/Tenkuen/Design-of-Hostage-Locating-Hexapod-for-SAR-operations/assets/147422662/e9e474fc-f395-4998-9879-c5bc317f7dc0)
 
 
-    6. Battery: Li-ion battery for power supply.
+    6. Battery: Li-ion battery for power supply.  
     
     ![image](https://github.com/Tenkuen/Design-of-Hostage-Locating-Hexapod-for-SAR-operations/assets/147422662/dba48818-97e2-427f-9691-c965579ec55f)
 
 
-    7. PCA 9685 16 channel Servo Driver: To control all the servo motors.
+    7. PCA 9685 16 channel Servo Driver: To control all the servo motors.  
     ![image](https://github.com/Tenkuen/Design-of-Hostage-Locating-Hexapod-for-SAR-operations/assets/147422662/d3f52a83-e4be-41a0-82b9-9979b75b0a2d)
    
 
-    8. XL4005 Buck Converter: to control incoming voltages for the servo motors
+    8. XL4005 Buck Converter: to control incoming voltages for the servo motors  
     ![image](https://github.com/Tenkuen/Design-of-Hostage-Locating-Hexapod-for-SAR-operations/assets/147422662/7eaa5b1a-8533-48b6-8ed1-ff1e42b1feff)
 
 
@@ -47,7 +47,7 @@ Components
     ![image](https://github.com/Tenkuen/Design-of-Hostage-Locating-Hexapod-for-SAR-operations/assets/147422662/427e3301-c1e6-48b6-a5a6-1c8a010a8fcb)
 
 
-    10. Overall Connection
+    10. Overall Connection  
     ![image](https://github.com/Tenkuen/Design-of-Hostage-Locating-Hexapod-for-SAR-operations/assets/147422662/2af4271b-73f2-4453-a5ea-d142ba2c54c0)
 
      
